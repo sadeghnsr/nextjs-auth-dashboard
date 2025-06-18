@@ -25,7 +25,7 @@ A modern, responsive authentication system built with Next.js, TypeScript, and S
 
 1. **Clone the repository:**
    \`\`\`bash
-   git clone https://github.com/yourusername/nextjs-auth-dashboard.git
+   git clone https://github.com/sadeghnsr/nextjs-auth-dashboard.git
    cd nextjs-auth-dashboard
    \`\`\`
 
@@ -139,14 +139,5 @@ npm start
 - **Card-based Layout** - Clean, organized content
 - **Mobile-first** - Responsive breakpoints
 
-## 📄 License
-
-This project is created for demonstration purposes.
-
-## 👨‍💻 Author
-
-Created for job application demonstration.
-
----
 
 **Note:** This project uses the RandomUser.me API for demo purposes. In a production environment, you would integrate with your actual authentication system.

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "A simple authentication system with Next.js, TypeScript, and SCSS Modules",
-  "author": "Your Name",
+  "author": "sadegh nasrabadi",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
